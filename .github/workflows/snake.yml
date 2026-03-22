@@ -2,13 +2,13 @@ name: Generate Snake
 
 on:
   schedule:
-    # every 12 hours
+    # run every 12 hours
     - cron: "0 */12 * * *"
   
-  # allows to manually run the job at any time
+  # allows manual run
   workflow_dispatch:
   
-  # run on every push on the master/main branch
+  # run on every push to main/master
   push:
     branches:
     - main
@@ -25,17 +25,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Generate Minimalist Monochrome Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=black&color_dots=#ebedf0,#d4d4d4,#a3a3a3,#525252,#000000
-            dist/github-contribution-grid-snake-dark.svg?color_snake=white&color_dots=#161b22,#404040,#737373,#a3a3a3,#ffffff
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/github-contribution-grid-snake.svg?color_snake=black&color_dots=#ebedf0,#d6d6d6,#a3a3a3,#5c5c5c,#000000
+            dist/github-contribution-grid-snake-dark.svg?color_snake=white&color_dots=#161b22,#333333,#666666,#999999,#ffffff
           
-      - name: Push to generated branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
