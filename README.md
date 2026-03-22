@@ -1,6 +1,18 @@
 # ToNorz
 
-*Software Engineer • Lifelong Learner • Open Source Contributor*
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Software+Engineer;Lifelong+Learner;Open+Source+Contributor" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Software+Engineer;Lifelong+Learner;Open+Source+Contributor" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Software+Engineer;Lifelong+Learner;Open+Source+Contributor" alt="Typing SVG" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="mailto:your.email@example.com">Email</a> •
+  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
+  <a href="https://github.com/ToNorz">GitHub</a>
+</p>
 
 ---
 
