@@ -1,6 +1,6 @@
 <div align="center">
 
-# ToNorz
+## ToNorz
 
 *Software Engineer · Lifelong Learner · Open Source Contributor*
 
