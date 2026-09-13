@@ -1,26 +1,31 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Cat typing on keyboard"/>
+<img src="https://media.tenor.com/M8lH_e6QeyMAAAAM/cat.gif" width="70" alt="Pixel cat roaming"/>
 
-## ToNorz
+<h1>✧ ToNorz ✧</h1>
 
-_Software Engineer · Lifelong Learner · Open Source Contributor_
+<i>Software Engineer · Lifelong Learner · Open Source Contributor</i>
 
 <br>
 
-I am a developer who loves building things. Currently focused on **Advanced Software Architecture**.
+I am a developer who loves building things. Currently focused on <b>Advanced Software Architecture</b>. <br>
 Always eager to learn and contribute to open-source environments.
 
 <br>
+<br>
 
-### 🐾 Stack 🐾
+<p>─────── ⋆⋅ 🐾 ⋅⋆ ───────</p>
 
-**C++** · **C** · **Python** · **Java** · **Bash**
+<br>
+
+### ✦ Ｓｔａｃｋ ✦
+
+**C++** · **C** · **Python** · **Java** · **Bash** <br>
 **HTML** · **CSS** · **JavaScript** · **MySQL**
 
 <br>
 
----
+<p>─────── ⋆⋅ 🐾 ⋅⋆ ───────</p>
 
 <br>
 
@@ -31,7 +36,8 @@ Always eager to learn and contribute to open-source environments.
 </picture>
 
 <br>
+<br>
 
-<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="130" alt="Cat sleeping"/>
+<img src="https://media.tenor.com/oC5IJygBVQkAAAAM/cat.gif" width="50" alt="Pixel cat sitting"/>
 
 </div>
