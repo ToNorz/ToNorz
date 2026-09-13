@@ -1,19 +1,21 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Cat typing on keyboard"/>
+
 ## ToNorz
 
-*Software Engineer · Lifelong Learner · Open Source Contributor*
+_Software Engineer · Lifelong Learner · Open Source Contributor_
 
 <br>
 
-I am a developer who loves building things. Currently focused on **Advanced Software Architecture**. 
+I am a developer who loves building things. Currently focused on **Advanced Software Architecture**.
 Always eager to learn and contribute to open-source environments.
 
 <br>
 
-### Stack
+### 🐾 Stack 🐾
 
-**C++** · **C** · **Python** · **Java** · **Bash**  
+**C++** · **C** · **Python** · **Java** · **Bash**
 **HTML** · **CSS** · **JavaScript** · **MySQL**
 
 <br>
@@ -27,5 +29,9 @@ Always eager to learn and contribute to open-source environments.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ToNorz/ToNorz/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ToNorz/ToNorz/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br>
+
+<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="130" alt="Cat sleeping"/>
 
 </div>
