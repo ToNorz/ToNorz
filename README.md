@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://media.tenor.com/M8lH_e6QeyMAAAAM/cat.gif" width="70" alt="Pixel cat roaming"/>
-
 <h1>✧ ToNorz ✧</h1>
 
 <i>Software Engineer · Lifelong Learner · Open Source Contributor</i>
@@ -34,10 +32,5 @@ Always eager to learn and contribute to open-source environments.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ToNorz/ToNorz/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ToNorz/ToNorz/output/github-contribution-grid-snake.svg">
 </picture>
-
-<br>
-<br>
-
-<img src="https://media.tenor.com/oC5IJygBVQkAAAAM/cat.gif" width="50" alt="Pixel cat sitting"/>
 
 </div>
